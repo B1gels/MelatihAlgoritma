@@ -1,4 +1,4 @@
-#Source code melatih algoritma sederhana
+# Source code melatih algoritma sederhana
   
 source code yang ada di repo ini,saya gunakan untuk melatih lebih dalam tentang algoritma
 karena terkadang saya masih sulit dalam membaca algoritma pemrograman
